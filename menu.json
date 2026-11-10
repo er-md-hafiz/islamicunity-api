@@ -9,7 +9,7 @@
       {
         "id": "prayer_times",
         "title": "Prayer Times",
-        "icon": "https://api.islamicunity/menu_icons/time.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/time.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -20,7 +20,7 @@
       {
         "id": "qibla",
         "title": "Qibla Finder",
-        "icon": "https://api.islamicunity/menu_icons/kaaba.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/kaaba.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -31,7 +31,7 @@
       {
         "id": "audio",
         "title": "Audio",
-        "icon": "https://api.islamicunity/menu_icons/audio.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/audio.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -42,7 +42,7 @@
       {
         "id": "books",
         "title": "Books",
-        "icon": "https://api.islamicunity/menu_icons/books.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/books.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -53,7 +53,7 @@
       {
         "id": "allah_names",
         "title": "99 Names of Allah",
-        "icon": "https://api.islamicunity/menu_icons/allah.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/allah.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -64,7 +64,7 @@
       {
         "id": "tasbih",
         "title": "Tasbih",
-        "icon": "https://api.islamicunity/menu_icons/tasbih.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/tasbih.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -75,7 +75,7 @@
       {
         "id": "calendar",
         "title": "Calendar",
-        "icon": "https://api.islamicunity/menu_icons/calender.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/calender.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -86,29 +86,29 @@
       {
         "id": "hajj",
         "title": "Hajj",
-        "icon": "https://api.islamicunity/menu_icons/hajj.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/hajj.png",
         "enabled": true,
         "visible": true,
         "type": "webview",
-        "url": "https://api.islamicunity/Hajj.html",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/Hajj.html",
         "span": 1,
         "analytics": "hajj"
       },
       {
         "id": "umrah",
         "title": "Umrah",
-        "icon": "https://api.islamicunity/menu_icons/umrah.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/umrah.png",
         "enabled": true,
         "visible": true,
         "type": "webview",
-        "url": "https://api.islamicunity/Umrah.html",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/Umrah.html",
         "span": 1,
         "analytics": "umrah"
       },
       {
         "id": "halal",
         "title": "Halal",
-        "icon": "https://api.islamicunity/menu_icons/halal.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/halal.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -119,7 +119,7 @@
       {
         "id": "news",
         "title": "News",
-        "icon": "https://api.islamicunity/menu_icons/news.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/news.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -130,11 +130,11 @@
       {
         "id": "quiz",
         "title": "Quiz",
-        "icon": "https://api.islamicunity/menu_icons/quiz.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/quiz.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
-        "url": "https://api.islamicunity/quiz.json",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/quiz.json",
         "destination": "quizFragment",
         "span": 1,
         "analytics": "quiz"
@@ -142,7 +142,7 @@
       {
         "id": "photo",
         "title": "Photo",
-        "icon": "https://api.islamicunity/menu_icons/gallery.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/gallery.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -153,7 +153,7 @@
       {
         "id": "video",
         "title": "Video",
-        "icon": "https://api.islamicunity/menu_icons/video.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/video.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -164,22 +164,22 @@
       {
         "id": "donate",
         "title": "Donate Now",
-        "icon": "https://api.islamicunity/menu_icons/donate.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/donate.png",
         "enabled": true,
         "visible": true,
         "type": "webview",
-        "url": "https://api.islamicunity/donate.html",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/donate.html",
         "span": 1,
         "analytics": "donate"
       },
       {
         "id": "dua",
         "title": "Dua",
-        "icon": "https://api.islamicunity/menu_icons/palms.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/palms.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
-        "url": "https://api.islamicunity/duas.json",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/duas.json",
         "destination": "duaFragment",
         "span": 1,
         "analytics": "dua"
@@ -187,18 +187,18 @@
       {
         "id": "prayer_guide",
         "title": "Prayer Guide",
-        "icon": "https://api.islamicunity/menu_icons/prayer_guide.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/prayer_guide.png",
         "enabled": true,
         "visible": true,
         "type": "webview",
-        "url": "https://api.islamicunity/PrayerGuide.html",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/PrayerGuide.html",
         "span": 1,
         "analytics": "prayer_guide"
       },
       {
         "id": "mosque",
         "title": "Mosque",
-        "icon": "https://api.islamicunity/menu_icons/mosque.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/mosque.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -209,11 +209,11 @@
       {
         "id": "zakat",
         "title": "Zakat Calculator",
-        "icon": "https://api.islamicunity/menu_icons/calculator.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/calculator.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
-        "url": "https://api.islamicunity/ZakatCalculator.html",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/ZakatCalculator.html",
         "destination": "zakatFragment",
         "span": 1,
         "analytics": "zakat"
@@ -221,7 +221,7 @@
       {
         "id": "currency",
         "title": "Currency Converter",
-        "icon": "https://api.islamicunity/menu_icons/currency.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/currency.png",
         "enabled": true,
         "visible": true,
         "type": "fragment",
@@ -233,11 +233,11 @@
       {
         "id": "games_and_puzzles",
         "title": "Games & Puzzles",
-        "icon": "https://api.islamicunity/menu_icons/games_and_puzzles.png",
+        "icon": "https://er-md-hafiz.github.io/api.islamicunity/menu_icons/games_and_puzzles.png",
         "enabled": true,
         "visible": true,
         "type": "webview",
-        "url": "https://api.islamicunity/GamesAndPuzzles.html",
+        "url": "https://er-md-hafiz.github.io/api.islamicunity/GamesAndPuzzles.html",
         "span": 1,
         "analytics": "games_and_puzzles"
       }
@@ -356,7 +356,7 @@
             "enabled": true,
             "visible": true,
             "type": "webview",
-            "url": "https://api.islamicunity/PrivacyPolicy.html",
+            "url": "https://er-md-hafiz.github.io/api.islamicunity/PrivacyPolicy.html",
             "analytics": "privacy_policy"
           },
           {
@@ -367,7 +367,7 @@
             "enabled": true,
             "visible": true,
             "type": "webview",
-            "url": "https://api.islamicunity/terms_and_conditions.html",
+            "url": "https://er-md-hafiz.github.io/api.islamicunity/terms_and_conditions.html",
             "analytics": "terms_conditions"
           },
           {
@@ -378,7 +378,7 @@
             "enabled": true,
             "visible": true,
             "type": "webview",
-            "url": "https://api.islamicunity/SupportOurCommunity.html",
+            "url": "https://er-md-hafiz.github.io/api.islamicunity/SupportOurCommunity.html",
             "analytics": "about"
           },
           {
